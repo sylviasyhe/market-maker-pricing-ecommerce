@@ -369,7 +369,7 @@ Key is **threshold calibration** and **real-time monitoring**.
 
 - **Background**: Quantitative Finance + Machine Learning + E-commerce Systems
 - **Interest**: Applying financial theory to real business problems
-- **Contact**: [Your Email]
+- **Contact**: siyaohe0618@gmail.com
 
 ---
 
